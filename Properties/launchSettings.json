@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Qx.Functions": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
