@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qx.Functions", "Qx.Functions.csproj", "{2C1E1792-674A-4E91-BCC1-7380884F5527}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qx.Services", "..\Qx.Services\Qx.Services.csproj", "{FF4F22F8-5FBB-4E6A-9F82-D86D1AC49A3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qx.Services", "Qx.Services\Qx.Services.csproj", "{FF4F22F8-5FBB-4E6A-9F82-D86D1AC49A3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
